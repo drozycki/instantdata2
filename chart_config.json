@@ -1,0 +1,6 @@
+{
+	"chartTitle": "2022 San Francisco Daily Air Quality Index",
+	"lineLabels": ["San Francisco"],
+	"queries": ["SELECT date,aqi FROM aqi WHERE countyId = 81;"],
+	"yAxisLabel": "Air Quality Index (AQI)"
+}
